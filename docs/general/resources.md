@@ -77,6 +77,7 @@ These pre-packaged editors are built on top of Slate, and can be helpful to see 
   library.
 - [Plate (Plugins for Slate)](https://github.com/udecode/plate) provides an editor with configurable and
   extendable plugins.
+- [Portable Text Editor]([https://](https://github.com/portabletext/editor) is a customizable editor for the Portable Text specification.
 - [Tripdocs](https://github.com/ctripcorp/tripdocs): It's a modern, production-ready rich text editor.
 
 \(Or, if you have their exact use case, can be a drop-in editor for you.\)
